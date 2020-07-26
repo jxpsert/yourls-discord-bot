@@ -18,6 +18,7 @@ discordSTATUS is optional, it defaults to "Shortening your URLs"
 # Usage
 
 Run it on your computer or external server by running the following command in Command Prompt (or Terminal, if you're using Linux);
+
 `node index.js`
 
 I recommend using it in a separate Discord server dedicated only to the bot, as it replies to *every* URL and image posted.
