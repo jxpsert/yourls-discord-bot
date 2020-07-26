@@ -1,5 +1,4 @@
 // Settings
-
 const yourlsURL = "https://yoursite.com"; // your YOURLS site URL, including subdirectory if it's in one
 const yourlsSECRET = "yourSecretCode"; // find this on /admin/tools.php
 const discordTOKEN = "yourDisordToken"; // find this on your Discord application's page
