@@ -1,5 +1,5 @@
 # yourls-discord-bot
-Integrating YOURLS inside a Discord bot.
+Integrating YOURLS into a Discord bot.
 
 # Install
 
