@@ -13,7 +13,7 @@ It requires 3 npm packages;
 * yourlsSECRET - your YOURLS secret signature token, found on /admin/tools.php
 * discordTOKEN - your Discord application's bot token (https://discord.com/developers/applications)
 
-discordSTATUS is optional, idefault is "Shortening your URLs"
+discordSTATUS is optional, default is "Shortening your URLs"
 
 # Usage
 
