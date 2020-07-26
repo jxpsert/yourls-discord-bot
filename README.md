@@ -21,5 +21,5 @@ Run it on your computer or external server by running the following command in C
 
 `node index.js`
 
-I recommend using it in a separate Discord server dedicated only to the bot, as it replies to *every* URL and image posted.
+I recommend using it in a separate Discord server dedicated only to the bot, as it replies to **every** URL and image posted.
 
