@@ -23,3 +23,6 @@ Run it on your computer or external server by running the following command in C
 
 I recommend using it in a separate Discord server dedicated only to the bot, as it replies to **every** URL and image posted.
 
+# Preview
+
+![preview](https://cdn.discordapp.com/attachments/736262457324208229/736997748821327892/unknown.png)
